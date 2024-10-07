@@ -25,7 +25,7 @@ JOBS = [
     'id': 4,
     'title': 'Data Analyst',
     'location': 'Bengaluru, India',
-    'salary': 'Rs 1,00,000/month'
+    'salary': 'Rs 80,000/month'
   }
 ]
 
